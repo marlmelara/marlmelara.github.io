@@ -1,18 +1,20 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Marlon Melara:
+  name   : "Marlon Melara"
+  bio    : "Computer Science student at the University of Houston."
+  avatar : "/images/profile.png"
+  email  : "marlonmelara96@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:marlonmelara96@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/marlon-melara-10a346264/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/marlmelara"
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "/files/Marlon_Melara_Resume.pdf"
