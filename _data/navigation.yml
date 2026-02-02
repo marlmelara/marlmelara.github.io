@@ -10,7 +10,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /files/Marlon_Melara_Resume.pdf
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/marlon-melara-10a346264/
